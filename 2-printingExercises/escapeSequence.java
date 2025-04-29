@@ -1,4 +1,3 @@
-package javaProgramming;
 public class escapeSequence {
 
 	public static void main(String[] args) {

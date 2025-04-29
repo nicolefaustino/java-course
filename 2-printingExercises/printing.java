@@ -1,7 +1,6 @@
-package javaProgramming;
 import java.util.Scanner;
 
-public class printingExercises{
+public class printing{
 	public static void main(String [] args){
 
 		String school1 = "College of Information and Computing Sciences";

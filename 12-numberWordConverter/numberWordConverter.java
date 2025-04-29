@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PrintNumerals
+public class numberWordConverter
 {
 	public static void main(String[] args)
 	{

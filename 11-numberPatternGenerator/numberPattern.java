@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FAUSTINO_LAB2 {
+public class numberPattern {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

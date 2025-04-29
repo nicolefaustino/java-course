@@ -1,5 +1,3 @@
-package javaProgramming;
-
 public class resume {
 	public static void main(String[] args) {
 		//\n skips a line so there is a space

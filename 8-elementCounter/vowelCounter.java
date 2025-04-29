@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class VowelCounter {
+public class vowelCounter {
 
     // to count total number of vowels
     static int countVowels(String str, int cntr, int total)

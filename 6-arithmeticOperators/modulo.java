@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Modulo{
+public class modulo{
 	public static void main(String [] args){
 
 		Scanner scan = new Scanner(System.in);

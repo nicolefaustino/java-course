@@ -1,4 +1,3 @@
-package javaProgramming;
 import java.util.Scanner;
 
 public class grade {

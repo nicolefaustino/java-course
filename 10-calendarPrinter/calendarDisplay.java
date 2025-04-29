@@ -1,6 +1,6 @@
   import java.util.Scanner;
 
-    public class DisplayCalendar
+    public class calendarDisplay
        {
         public static void main(String[] args)
         {

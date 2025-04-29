@@ -1,4 +1,4 @@
-public class Heart {
+public class heart {
     public static void main(String[] args) {
         int size = 5; // Adjust the size of the heart
 

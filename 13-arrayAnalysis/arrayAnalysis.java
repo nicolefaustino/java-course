@@ -1,7 +1,6 @@
-package Laboratory;
 import java.util.Scanner;
 
-public class Laboratory1 {
+public class arrayAnalysis {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in); 

@@ -1,6 +1,6 @@
 import java.util.Calendar;
 
-public class CalendarPrinter {
+public class calendarPrinter {
 
     public static void printCalendar(int year, int month) {
         Calendar calendar = Calendar.getInstance();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FAUSTINO_LAB1 {
+public class elementCounter {
 
     public static void main(String[] args) {
         System.out.println("Faustino, Nicole Adi C.");

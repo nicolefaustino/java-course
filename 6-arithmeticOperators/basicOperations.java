@@ -1,4 +1,4 @@
-public class BasicOperations{
+public class basicOperations{
 	public static void main(String [] args){
 		
 		String a = "5.2";

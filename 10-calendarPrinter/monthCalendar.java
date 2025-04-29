@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MonthCalendar {
+public class monthCalendar {
 
     public static void main(String[] args) {
         int month, year =2022;

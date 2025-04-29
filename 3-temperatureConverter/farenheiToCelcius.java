@@ -1,7 +1,6 @@
-package javaProgramming;
 import java.util.Scanner;
 
-public class FtoC {
+public class farenheiToCelcius {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
